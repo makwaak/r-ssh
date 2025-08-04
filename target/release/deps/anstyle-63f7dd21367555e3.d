@@ -1,0 +1,12 @@
+/Users/sivaa/rust-pssh/target/release/deps/libanstyle-63f7dd21367555e3.rmeta: /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/lib.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/macros.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/color.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/effect.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/reset.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/style.rs
+
+/Users/sivaa/rust-pssh/target/release/deps/libanstyle-63f7dd21367555e3.rlib: /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/lib.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/macros.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/color.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/effect.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/reset.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/style.rs
+
+/Users/sivaa/rust-pssh/target/release/deps/anstyle-63f7dd21367555e3.d: /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/lib.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/macros.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/color.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/effect.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/reset.rs /Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/style.rs
+
+/Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/lib.rs:
+/Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/macros.rs:
+/Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/color.rs:
+/Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/effect.rs:
+/Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/reset.rs:
+/Users/sivaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.11/src/style.rs:
